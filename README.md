@@ -17,12 +17,6 @@ Live animated graphs using Matplotlib
 
 Interactive web-based dashboard using Flask and Plotly
 
-Project Structure
-├── smart_ping_monitor.py   # Core ping monitoring and CSV logging
-├── ping_log.csv            # Auto-generated log file
-├── ping_graph.py           # Live graph visualization from CSV
-├── ping_dashboard.py       # Real-time web dashboard
-├── README.md               # Project documentation
 
 Technologies Used
 
